@@ -1,0 +1,9 @@
+.laborant-menu{
+    display: flex;
+    padding:0;
+    margin: 0;
+}
+
+.laborant-menu li{
+    padding: 0 10px;
+}
